@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/6kLh7LQ.png)
-
 # 👋 ¡Hey! Bienvenido a mi GitHub
 
 Soy un **diseñador gráfico cubano**, entusiasta de **Python**, la programación, la tecnología y un apasionado gamer.  
@@ -18,24 +16,28 @@ Me gusta cruzar la línea entre creatividad y código para construir soluciones 
 
 ## 🛠️ Tecnologías y herramientas
 
-![Photoshop](https://img.shields.io/badge/Photoshop-4A90E2?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF6F61?style=flat&logo=adobe-illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-7B61FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-0094CE?style=flat&logo=coreldraw&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-purple?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-blue?style=flat&logo=coreldraw&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-0C0C0C?style=flat&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=flat&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📊 Mis estadísticas en GitHub
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansrubio&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansrubio&theme=default)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dansrubio&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dansrubio&theme=default)
 
 ---
 
