@@ -33,17 +33,20 @@ Me gusta cruzar la línea entre creatividad y código para construir soluciones 
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## 📊 Mis estadísticas en GitHub (modo oscuro)
 
-### 🐍 Snake Game (modo oscuro)
-Genera un juego tipo Snake a partir de tu gráfica de contribuciones:  
-![Snake](https://github-profile-summary-cards.vercel.app/api/cards/snake?username=dansrubio&theme=dark)
-
----
-
-### 🔥 GitHub Streak Stats (modo oscuro con todos los datos)
+### 🔥 GitHub Streak Stats
 Muestra tu racha de contribuciones y actividad relevante:  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dansrubio&theme=dark&hide_border=false)
+
+### 📈 GitHub Profile Summary
+Resumen de tu perfil y repositorios más usados:  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansrubio&theme=dark)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dansrubio&theme=dark)
+
+### 📅 Contribution Graph
+Gráfico diario de contribuciones de GitHub:  
+![GitHub Contributions](https://ghchart.rshah.org/dansrubio)
 
 ---
 
